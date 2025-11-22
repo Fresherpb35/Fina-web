@@ -21,7 +21,7 @@ const MENU_ITEMS = [
   { label: 'Clients', href: '/dashboard/clients', icon: Users },
   { label: 'Accounting Reports', href: '/dashboard/accounting-reports', icon: FileText },
   { label: 'HR Analytics', href: '/dashboard/hr-analysis', icon: Briefcase },
-  { label: 'Chat Support', href: '/dashboard/hr-analysis', icon: MessageSquare }
+  { label: 'Chat Support', href: '/dashboard/chat-support', icon: MessageSquare }
 ];
 
 export default function Sidebar({ 
